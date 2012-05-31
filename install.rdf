@@ -3,7 +3,11 @@
  xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>autotrans@mattmalone</em:id>
+<<<<<<< HEAD
     <em:name>Autotrans Reloaded</em:name>
+=======
+    <em:name>Autotrans</em:name>
+>>>>>>> 85ebff3688de1dc150e0393cd06a024bf7fdbbe5
     <em:version>3.1</em:version>
     <em:creator>Matt Malone (Original Author: Glenn Powell)</em:creator>
     <em:homepageURL>http://groups.google.com/group/autotrans-firefox</em:homepageURL>
@@ -12,7 +16,10 @@
     <em:iconURL>chrome://autotrans/content/autotrans.png</em:iconURL>
     <em:targetApplication>
       <Description>
+<<<<<<< HEAD
 	  <em:type>2</em:type>
+=======
+>>>>>>> 85ebff3688de1dc150e0393cd06a024bf7fdbbe5
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
         <em:minVersion>3.0</em:minVersion>
         <em:maxVersion>12.*</em:maxVersion>

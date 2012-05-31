@@ -1,1 +1,1 @@
-Send torrents to Transmission Daemons from Firefox
+Firefox plugin that pushes torrents and magnet links to Transmission daemons via RPC

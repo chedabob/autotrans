@@ -265,7 +265,11 @@ var autotrans = {
     var jsutf8 = false;           // Use javascript-only UTF-8 encoding
     var withslashes = false;      // Add slashes before '/' characters
     var addnewlines = false;      // Add newlines after every 64 characters
+<<<<<<< HEAD
     var mozilla64 = true;         // Use Mozilla's Base64 encoder
+=======
+    var mozilla64 = false;       // Use Mozilla's Base64 encoder
+>>>>>>> 85ebff3688de1dc150e0393cd06a024bf7fdbbe5
     ////////////////////////////////////////////////////////////////////////
     
     var output = "";

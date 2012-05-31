@@ -143,7 +143,11 @@
               </box>
 
               <box orient="horizontal">
+<<<<<<< HEAD
                 <checkbox id="textmetainfo" preference="metainfo" disabled="true"/>
+=======
+                <checkbox id="textmetainfo" preference="metainfo" disabled="false"/>
+>>>>>>> 85ebff3688de1dc150e0393cd06a024bf7fdbbe5
                 <label accesskey="&metainfo.accesskey;" control="textmetainfo" tooltiptext="&metainfo.hint;" class="side-label">&metainfo.label;</label>
               </box>
 
